@@ -1,7 +1,7 @@
 <template>
   <div class="text-center my-5">
     <p class="display-4">
-      Zifan Wang's Blogs
+      Zifan's Blogs
     </p>
     <img
       alt="My Profile"
