@@ -7,16 +7,13 @@
       :to="'/'"
       class="text-reset"
     >
-      <p class="m-0 p-0">
-        vue3-md-blog v{{ version }}
-      </p>
     </router-link>
     <p class="m-0 p-0">
-      Created with ❤️ by <a
-        href="https://github.com/yeikiu/"
+      No rights reverved by <a
+        href="https://github.com/zifanwangsteven/"
         target="_blank"
         class="text-reset"
-      >JQ</a> © {{ new Date().toDateString().slice(-4) }}
+      >Zifan Wang</a> © {{ new Date().toDateString().slice(-4) }}
     </p>
   </div>
 </template>

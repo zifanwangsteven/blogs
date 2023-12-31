@@ -2,7 +2,7 @@
   <PatchMeta />
   <div id="app-wrapper">
 
-    <NavBar :title="'📝 vue3-md-blog'" :sections="blogSections" />
+    <NavBar :title="'📝 zifan\'s blog'" :sections="blogSections" />
 
     <div>
       <Suspense>
